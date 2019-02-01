@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# local configs
+common.yaml
+
+# User-specific stuff
+.idea/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/

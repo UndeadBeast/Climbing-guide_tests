@@ -1,0 +1,7 @@
+implicitly_timeout: 5
+account:
+    username: test_user1
+    email: test1@gmail.com
+    password: test
+cgn:
+    host: http://climbing-guide.net
